@@ -2,9 +2,9 @@
 SETLOCAL ENABLEDELAYEDEXPANSION
 
 rem Set variable values 
-set subscription_id=YOUR_SUBSCRIPTION_ID
-set resource_group=YOUR_RESOURCE_GROUP
-set location=YOUR_LOCATION_NAME
+set subscription_id=f8cd3951-2892-46e4-ae7b-7d4efdb9c070
+set resource_group=rg-ai-services
+set location=eastus
 set expiry_date=2026-01-01T00:00:00Z
 
 rem Get random numbers to create unique resource names
